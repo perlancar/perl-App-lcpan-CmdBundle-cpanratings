@@ -18,7 +18,7 @@ $SPEC{handle_cmd} = {
     description => <<'_',
 
 Given distribution `DIST` (or module `MOD`), this will open
-`https://cpanratings.perl.org/dist/DIST`. `DIST` will first be checked for
+https://cpanratings.perl.org/dist/DIST. `DIST` will first be checked for
 existence in local index database.
 
 _
